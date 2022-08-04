@@ -1,7 +1,6 @@
 # InventoryManagement
-THIS IS AN INVENTORY MANAGEMENT SYSTEM FOR A FACTORY.
-EVERY STORE, FACTORY, INDUSTRY REQUIRES A MANAGEMENT TECHNIQUE TO HANDLE INVENTORY. LOGS OF EVERY TRANSACTION, QUANTITY OF PRODUCT IN THE STORE AND THE PRODUCT DESCRIPTION ARE KEPT. TO HAVE SECURE MAINTENANCEOF THIS DATA, AN INVENTORY MANAGEMENT SYSTEM IS REQUIRED.
+This is an inventory management system for a factory.
+Every store, factory, industry requires a management technique to handle inventory. Logs of every transaction, quantity of product in the store and the product description are kept. To have secure maintenance of this data, an inventory management system is required.
+This project is a basic application used for the situation mentioned.
 
-THIS PROJECT IS A BASIC APPLICATION USED FOR THE SITUATION MENTIONED.
-
-WORKING VIDEO- https://youtu.be/eAixgSs6DYE
+Working Video- https://youtu.be/eAixgSs6DYE
